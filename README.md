@@ -1,6 +1,6 @@
 # ⭐ TWIN - Same or Not? Enhancing Visual Perception in Vision-Language Models
 
-This is the code for the paper [Same or Not? Enhancing Visual Perception in Vision-Language Models](https://glab-caltech.github.io/twin/) by [Damiano Marsili](https://damianomarsili.github.io/), [Aditya Mehta](https://aditya-mehta1.github.io/), [Ryan Lin](https://rlin232.github.io/), and [Georgia Gkioxari](https://georgiagkioxari.com/).
+This is the code for the paper [Same or Not? Enhancing Visual Perception in Vision-Language Models](https://glab-caltech.github.io/twin/) by [Damiano Marsili](https://damianomarsili.github.io/), [Aditya Mehta](https://aditya-mehta1.github.io/), [Ryan Y. Lin](https://rlin232.github.io/), and [Georgia Gkioxari](https://georgiagkioxari.com/).
 
 <div align="center">
   <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
