@@ -1,0 +1,6 @@
+[submodule "modules/verl"]
+	path = modules/verl
+	url = https://github.com/damianomarsili/verl.git
+[submodule "modules/lmms-eval"]
+	path = modules/lmms-eval
+	url = https://github.com/damianomarsili/lmms-eval.git
