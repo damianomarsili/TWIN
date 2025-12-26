@@ -5,8 +5,8 @@ This is the code for the paper [Same or Not? Enhancing Visual Perception in Visi
 <div align="center">
   <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://glab-caltech.github.io/twin/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
-  <a href='https://huggingface.co/datasets/glab-caltech/TWIN'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow'></a>
-  <a href='https://huggingface.co/datasets/glab-caltech/FGVQA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Benchmark-blue'></a>
+  <a href='https://huggingface.co/datasets/glab-caltech/TWIN'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TWIN%20Dataset-yellow'></a>
+  <a href='https://huggingface.co/datasets/glab-caltech/FGVQA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FGVQA%20Benchmark-blue'></a>
   <a href='https://huggingface.co/collections/glab-caltech/twin'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-purple'></a>
 
 </div>
