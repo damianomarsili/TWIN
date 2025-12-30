@@ -3,7 +3,7 @@
 This is the code for the paper [Same or Not? Enhancing Visual Perception in Vision-Language Models](https://glab-caltech.github.io/twin/) by [Damiano Marsili](https://damianomarsili.github.io/), [Aditya Mehta](https://aditya-mehta1.github.io/), [Ryan Y. Lin](https://rlin232.github.io/), and [Georgia Gkioxari](https://georgiagkioxari.com/).
 
 <div align="center">
-  <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+  <a href="https://arxiv.org/abs/2512.23592"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
   <a href='https://glab-caltech.github.io/twin/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
   <a href='https://huggingface.co/datasets/glab-caltech/TWIN'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-TWIN%20Dataset-yellow'></a>
   <a href='https://huggingface.co/datasets/glab-caltech/FGVQA'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FGVQA%20Benchmark-blue'></a>
@@ -75,5 +75,13 @@ The trained checkpoint will default save to `training/data/checkpoints/`. You ca
 ## 📚 Citation
 If you use the TWIN dataset or FGVQA benchmark suite in your research, please consider citing our work:
 ```bibtex
-TODO.
+@misc{marsili2025notenhancingvisualperception,
+      title={Same or Not? Enhancing Visual Perception in Vision-Language Models}, 
+      author={Damiano Marsili and Aditya Mehta and Ryan Y. Lin and Georgia Gkioxari},
+      year={2025},
+      eprint={2512.23592},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.23592}, 
+}
 ```
