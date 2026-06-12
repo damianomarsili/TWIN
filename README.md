@@ -75,13 +75,11 @@ The trained checkpoint will default save to `training/data/checkpoints/`. You ca
 ## 📚 Citation
 If you use the TWIN dataset or FGVQA benchmark suite in your research, please consider citing our work:
 ```bibtex
-@misc{marsili2025notenhancingvisualperception,
-      title={Same or Not? Enhancing Visual Perception in Vision-Language Models}, 
-      author={Damiano Marsili and Aditya Mehta and Ryan Y. Lin and Georgia Gkioxari},
-      year={2025},
-      eprint={2512.23592},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.23592}, 
+@inproceedings{marsili2026same,
+  title={Same or not? enhancing visual perception in vision-language models},
+  author={Marsili, Damiano and Mehta, Aditya and Lin, Ryan Y and Gkioxari, Georgia},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17303--17315},
+  year={2026}
 }
 ```
